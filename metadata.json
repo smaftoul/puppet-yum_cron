@@ -21,6 +21,10 @@
     {
       "operatingsystem": "Scientific",
       "operatingsystemrelease": [ "6", "7" ]
+    },
+    {
+      "operatingsystem": "Amazon",
+      "operatingsystemrelease": [ "1", "2" ]
     }
   ],
   "dependencies": [
